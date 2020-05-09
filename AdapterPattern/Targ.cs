@@ -8,7 +8,7 @@ namespace AdapterPattern
     {
         public virtual void GetTarg()
         {
-            Console.WriteLine("这是一个普通目标!");
+            Console.WriteLine("这是一个普通的任务!");
         }
 
     }
